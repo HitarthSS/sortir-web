@@ -27,7 +27,7 @@ NEO4J_URI=bolt://localhost:7687
 NEO4J_USER=neo4j
 NEO4J_PASSWORD=your_neo4j_password
 REDIS_URL=redis://localhost:6379
-PORT=3000
+PORT=5001
 ```
 
 #### `.env.example` (frontend):
